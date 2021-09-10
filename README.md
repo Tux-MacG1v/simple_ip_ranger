@@ -1,2 +1,2 @@
-# Mess Ip-ranger
-<a href="https://i.ibb.co/fqwyC4q/ip-ranger.png" alt="simple-ip-ranger" border="0" /></a>
+# Simple Ip-ranger
+<a href="https://ibb.co/17WP987"><img src="https://i.ibb.co/q7QcRk7/ip-ranger.png" alt="ip-ranger" border="0" /></a>
